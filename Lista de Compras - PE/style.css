@@ -1,0 +1,55 @@
+@font-face {
+    font-family: Inter;
+    src: url(Inter.ttf);
+}
+
+.tlista {
+    font-family: Inter;
+    font-size: 55px;
+    color: #107300;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imgtlista {
+    text-align: center;
+}
+
+img {
+    width: 1700px
+}
+
+h2 {
+    font-family: Inter;
+    font-size: 40px;
+}
+
+p {
+    line-height: 20%;
+    font-family: Inter;
+    font-size: 30px;
+    
+}
+
+.mercearia {
+    color: #DC7516;
+}
+
+.açougue {
+
+    color: #F119F5;
+}
+
+.higiene {
+    
+    color: #E73434;
+}
+
+.feira {
+
+    color: #BECD12;
+}
+
+.limpeza {
+    color: #273DFF;
+}
